@@ -6,7 +6,6 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol"; 
 //It adds functionality for storing and retrieving token metadata URIs.
 import "@openzeppelin/contracts/utils/Counters.sol"; 
-//provides a library for managing counters.
 
 contract NFTMinter is ERC721URIStorage{ 
     //This line defines a new contract called NFTMinter
