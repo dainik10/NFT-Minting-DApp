@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MI
 pragma solidity ^0.8.3; 
 //Version of Solidity that the contract is written in
 
