@@ -70,7 +70,7 @@ function MintNFT() {
     <Container maxWidth="lg">
       <Box sx={{ mt: 4, mb: 2 }}>
         <Typography variant="h4" align="center" gutterBottom>
-          Shardeum NFT Minter
+         NFT Minting Dapp
         </Typography>
       </Box>
       <Grid container spacing={2}>
